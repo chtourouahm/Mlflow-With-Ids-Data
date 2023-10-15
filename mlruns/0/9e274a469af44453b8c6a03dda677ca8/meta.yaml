@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/Desktop/research_cs/mlruns/0/9e274a469af44453b8c6a03dda677ca8/artifacts
+end_time: 1697412239604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e274a469af44453b8c6a03dda677ca8
+run_name: 'LogisticRegression '
+run_uuid: 9e274a469af44453b8c6a03dda677ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697412182580
+status: 3
+tags: []
+user_id: ASUS

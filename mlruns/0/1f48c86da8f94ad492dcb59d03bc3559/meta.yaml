@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/Desktop/research_cs/mlruns/0/1f48c86da8f94ad492dcb59d03bc3559/artifacts
+end_time: 1697412018833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f48c86da8f94ad492dcb59d03bc3559
+run_name: Random Forest
+run_uuid: 1f48c86da8f94ad492dcb59d03bc3559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697411957895
+status: 3
+tags: []
+user_id: ASUS

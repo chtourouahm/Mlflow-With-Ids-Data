@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/Desktop/research_cs/mlruns/0/5c03e395918248b08c11249cb8856f5a/artifacts
+end_time: 1697412136826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c03e395918248b08c11249cb8856f5a
+run_name: Naive Bayes
+run_uuid: 5c03e395918248b08c11249cb8856f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697412091661
+status: 3
+tags: []
+user_id: ASUS

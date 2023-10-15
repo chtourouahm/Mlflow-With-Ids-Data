@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/Desktop/research_cs/mlruns/0/ea4144d5573f44e3bb103a01285ebec3/artifacts
+end_time: 1697412182568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea4144d5573f44e3bb103a01285ebec3
+run_name: Decision Trie
+run_uuid: ea4144d5573f44e3bb103a01285ebec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697412136846
+status: 3
+tags: []
+user_id: ASUS
